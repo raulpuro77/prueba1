@@ -11,6 +11,6 @@ for ($numero=1; $count<10; $numero++) {
         echo $numero."</br>";
         $count++;
     }
-    $esprimo=TRUE;
+    $esprimo(mi cambio)=TRUE;
 }
 ?>
